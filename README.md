@@ -5,5 +5,3 @@ Lead software engineer @ [Kredium](https://www.kredium.com) - coding a ton of fu
 Senior backend engineer @ [FishingBooker](https://fishingbooker.com) - Fishing trips booking platform 🎣
 
 Love building stuff with Laravel, Vue & Tailwind! - very well experienced in testing, documenting, deploying and maintaining software 🏃
-
-Currently working on my masters degree about microservices, event sourcing and CQRS 💭
